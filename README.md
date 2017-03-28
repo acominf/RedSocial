@@ -18,9 +18,9 @@ Red social cuenta con diferentes funciones o herramientas
 * perfil de usuario
 * lista de amigos
 
-### Funcionalidad 1
+### **Chats**
 
-**Chats**: la página contara con 3 tipos de chat:
+la página contara con 3 tipos de chat:
 
 **Chat Global**: será una ventana de chat donde estarán todos los usuarios que están visitando la pagina  y esten con una sesión iniciada
 
@@ -28,22 +28,22 @@ Red social cuenta con diferentes funciones o herramientas
 
 **Chat en grupo**: es una ventana de chat en grupo que los usuarios pueden crear , agregando a sus amigos y así seleccionar con quienes podrán hablar
 
-### Funcionalidad 2
+### **Publicaciones**
 
-**Publicaciones**: Es una Sección de la página  donde los usuarios podrán publicar contenido ya sea imagenes, gif, enlaces, imágenes, etc. y se puedan hacer comentarios sobre las mismas.
+Es una Sección de la página  donde los usuarios podrán publicar contenido ya sea imagenes, gif, enlaces, imágenes, etc. y se puedan hacer comentarios sobre las mismas.
 
-### Funcionalidad 3
+### **Perfil de usuario**
 
-**Perfil de usuario**: Es una sección que tendrá cada usuario donde en ella se rellenará ciertos campos que definen el perfil de cada persona (gustos,hobbies, etc.).
+Es una sección que tendrá cada usuario donde en ella se rellenará ciertos campos que definen el perfil de cada persona (gustos,hobbies, etc.).
 
-### Funcionalidad 4
+### **lista de amigos**
 
-**lista de amigos**: Es una sección de la página que tendrá cada usuario donde podrá ver , agregar sus amigos registrados en la página.
+Es una sección de la página que tendrá cada usuario donde podrá ver , agregar sus amigos registrados en la página.
 
 
-### Funcionalidad 5
+### **formulario de registro**
 
-**formulario de registro**:Es una seccion de la pagina donde cada usuario que acceda a la pagina tenga la facilidad de registrar una cuenta para poder usar cada una de las funciones
+Es una seccion de la pagina donde cada usuario que acceda a la pagina tenga la facilidad de registrar una cuenta para poder usar cada una de las funciones
 
 ## Autor(es)
 El autor(es) del proyecto son:
