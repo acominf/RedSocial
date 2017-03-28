@@ -55,6 +55,6 @@ El autor(es) del proyecto son:
 ## Semestre
 - 2016-2017/II
 
-##Universidad Autonoma de San Luis Potosi
+## Universidad Autonoma de San Luis Potosi
 
-##Area de Computacion e Informatica
+## Area de Computacion e Informatica
